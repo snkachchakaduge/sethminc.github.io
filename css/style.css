@@ -75,6 +75,16 @@ p {
   margin-top: 0;
   margin-bottom: 1rem; }
 
+#headerPopup{
+  width:75%;
+  margin:0 auto;
+}
+
+#headerPopup iframe{
+  width:100%;
+  margin:0 auto;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
